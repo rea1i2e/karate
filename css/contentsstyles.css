@@ -1,0 +1,9 @@
+h1 {
+  /* font-size: 30px; */
+  padding-left: 20px;
+  border-left: 20px solid green;
+}
+
+.desc {
+  font-size : 10px;
+}
