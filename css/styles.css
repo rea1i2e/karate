@@ -22,6 +22,7 @@ div a {
   width: 500px;
   height: 216px;
   margin-left: 20px;
+  margin-right: 20px;
   /* background: silver; */
 }
 
@@ -43,6 +44,10 @@ div a {
 }
 
 .kanban:hover {
+  opacity: 0.8;
+}
+
+.wazalogo:hover {
   opacity: 0.8;
 }
 
